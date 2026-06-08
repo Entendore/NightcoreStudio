@@ -32,7 +32,7 @@ A desktop application built with PySide6 for batch-remixing audio files into Nig
 
 Run the application:
 ```bash
-python main.py
+python app.py
 ```
 
 ### Workflow
