@@ -1,12 +1,10 @@
-# main.py
 import sys
 from PySide6.QtWidgets import QApplication
 from ui import RemixMakerApp
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    
+    app.setStyle("Fusion")
     window = RemixMakerApp()
     window.show()
-    
     sys.exit(app.exec())

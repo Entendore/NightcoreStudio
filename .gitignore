@@ -38,4 +38,6 @@ dist/
 
 # >>> AUTO DISCOVERED RULES >>>
 __pycache__/
+input/
+output/
 # <<< AUTO DISCOVERED RULES <<<
